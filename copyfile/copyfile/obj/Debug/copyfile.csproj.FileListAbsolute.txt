@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\copyfile\copyfile\bin\Debug\copyfile.exe.config
+C:\Users\Dell\source\repos\copyfile\copyfile\bin\Debug\copyfile.exe
+C:\Users\Dell\source\repos\copyfile\copyfile\bin\Debug\copyfile.pdb
+C:\Users\Dell\source\repos\copyfile\copyfile\obj\Debug\copyfile.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\copyfile\copyfile\obj\Debug\copyfile.exe
+C:\Users\Dell\source\repos\copyfile\copyfile\obj\Debug\copyfile.pdb
+C:\Users\Dell\source\repos\copyfile\copyfile\obj\Debug\copyfile.csprojAssemblyReference.cache
