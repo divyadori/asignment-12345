@@ -1,0 +1,13 @@
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.Form1.resources
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.Properties.Resources.resources
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.FINALform.resources
+C:\Users\Dell\source\repos\studentform\studentform\bin\Debug\Database1.mdf
+C:\Users\Dell\source\repos\studentform\studentform\bin\Debug\Database1_log.ldf
+C:\Users\Dell\source\repos\studentform\studentform\bin\Debug\studentform.exe.config
+C:\Users\Dell\source\repos\studentform\studentform\bin\Debug\studentform.exe
+C:\Users\Dell\source\repos\studentform\studentform\bin\Debug\studentform.pdb
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.exe
+C:\Users\Dell\source\repos\studentform\studentform\obj\Debug\studentform.pdb
