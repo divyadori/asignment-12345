@@ -1,0 +1,56 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace firstprogram
+{
+    class Program1
+    {
+        private string code = "N.A";
+        private string name = " not know";
+
+        public string code
+        {
+            get
+            {
+                return code;
+            }
+            set
+            {
+                code = value;
+            }
+        }
+        public string name
+        {
+            get
+            {
+                return name;
+
+            }
+            set
+            {
+                code = name;
+
+            }
+        }
+        public override string ToString()
+        {
+            return "code =" + code + "name =" + name;
+        }
+
+    }
+    class exampledemo
+    {
+        public static void Main()
+        {
+            Program1 p = new Program1();
+            p.code = "001";
+            p.name = "divya";
+            Console.WriteLine("student info", s);
+            Console.ReadLine();
+        }
+
+    }
+}
