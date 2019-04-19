@@ -1,0 +1,11 @@
+H:\16ce026\WebApplication1\WebApplication1\bin\WebApplication1.dll
+H:\16ce026\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+H:\16ce026\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+H:\16ce026\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Dell\Downloads\Practical7-master\Practical7-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
